@@ -2,6 +2,10 @@
 
 This project is a user profile card and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Interface of the User Card
+![React](https://github.com/KrownWealth/myusercard/assets/100444940/774dc27a-dfa7-4c66-a3ac-d9408a69f22a)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
