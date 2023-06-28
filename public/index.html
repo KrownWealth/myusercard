@@ -12,10 +12,10 @@
       content="Web site created using create-react-app"
     />
 
-    <title>30 Days Of React App</title>
+    <title>My User Card</title>
     <style>
     
-      /* == General style === */
+    
       
       * {
         box-sizing: border-box;
@@ -30,14 +30,11 @@
         font-family: 'Montserrat';
         font-weight: 300;
         color: black;
-        background-color: black;
+        background-color: #ffffff;
         width: 100%;
       }
 
-      .root {
-        
-        position: relative;
-      }
+      
 
 
       h1 {
@@ -71,15 +68,13 @@
         border-radius: 50%;
       }
 
-      /* .avatar-img::after{
-
-      }
+     
       
-  .icon::before {
+ .icon::before {
   font-family: "Font Awesome 5 Free";
   content: "\f058"; 
   margin-right: 5px; 
-} */
+} 
 
     .card-wrapper{
       position: absolute;
@@ -131,13 +126,19 @@
         border: 1px;
         border-radius: 5px;
       }
+      .grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
 
     
 
-    </style>
+    </style> 
     
   </head>
   <body>
     <div id="root"></div>
+    <script src="index.js"></script>
   </body>
 </html>
