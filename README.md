@@ -1,11 +1,16 @@
-# Getting Started with Create React App
+# Overview
 
-This project is a user profile card and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is my first React project. I make use of state to switch between dark and light background changer.
+
+## Tech Stack
+1. React.js
 
 # Interface of the User Card
 ![React](https://github.com/KrownWealth/myusercard/assets/100444940/774dc27a-dfa7-4c66-a3ac-d9408a69f22a)
 
+# Getting Started with this project
 
+This project is a user profile card and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
